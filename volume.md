@@ -13,31 +13,31 @@ A refresh token is needed to obtain an access tokens for users. Log in with your
 
 1. Click on the generate refresh token button.
 
-![token-generator1](./../pics/cloudmanager_token_generator01.jpg)
+![token-generator1](./pics/cloudmanager_token_generator01.jpg)
 
 2. Copy it to the clipboard.
 
-![token-generator2](./../pics/cloudmanager_token_generator02.jpg)
+![token-generator2](./pics/cloudmanager_token_generator02.jpg)
 
 ### Cloud Manager Connector Client id
 
 1. Go to [Cloud Manager SaaS](https://cloudmanager.netapp.com/support-dashboard/connector), and click on the question mark icon on the top right and click on 'Support'. Click on the 'Connector' section. Copy the Client id.
 
-![account-id1](./../pics/cloudmanager_client_id01.jpg)
+![account-id1](./pics/cloudmanager_client_id01.jpg)
 
 ### Cloud Manager Working Environment id
 
 1. Go to [Cloud Manager SaaS](https://cloudmanager.netapp.com/), select the deployed Cloud Volumes ONTAP instance anc click on 'Enter Working Environment'.
 
-![account-id1](./../pics/cloudmanager_working_environment_id01.jpg)
+![account-id1](./pics/cloudmanager_working_environment_id01.jpg)
 
 2. Click in the Information section.
 
-![account-id1](./../pics/cloudmanager_working_environment_id02.jpg)
+![account-id1](./pics/cloudmanager_working_environment_id02.jpg)
 
 3. Copy the working environment id. 
 
-![account-id1](./../pics/cloudmanager_working_environment_id03.jpg)
+![account-id1](./pics/cloudmanager_working_environment_id03.jpg)
 
 ## Deployment
 
