@@ -1,6 +1,6 @@
 # Volume on Google Cloud using Terraform
 
-The module parameters and details can be checked in the official documentation: [NetApp Cloud Manager Aggregate](https://registry.terraform.io/providers/NetApp/netapp-cloudmanager/latest/docs/resources/cvo_volume).
+The module parameters and details can be checked in the official documentation: [NetApp Cloud Manager Volume](https://registry.terraform.io/providers/NetApp/netapp-cloudmanager/latest/docs/resources/cvo_volume).
 
 * [Requirements](#requirements)
 * [Deployment](#deployment)
@@ -41,7 +41,7 @@ A refresh token is needed to obtain an access tokens for users. Log in with your
 
 ## Deployment
 
-Check the last Terraform module version and modify the inputs according with your project.
+Check the last Terraform module version and modify the inputs according to your project.
 
 provider.tf
 ```yaml
