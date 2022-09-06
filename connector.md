@@ -45,13 +45,13 @@ Once you have created the service account, [create a key](https://cloud.google.c
 
 ![account-id1](./pics/cloudmanager_account_id01.jpg)
 
-2. Copy the Account ID which is shown.
+2. Copy the Account ID.
 
 ![account-id2](./pics/cloudmanager_account_id02.jpg)
 
 ## Deployment
 
-Check the last Terraform module version and modify the inputs according with your project.
+Check the last Terraform module version and modify the inputs according to your project.
 
 provider.tf
 ```yaml
