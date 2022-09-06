@@ -5,6 +5,6 @@ Guides to show the procedure and examples to deploy Cloud Volumes ONTAP on Googl
 * [Cloud Manager Connector](./connector.md)
 * [Cloud Volumes ONTAP Single Node](./cvosn.md)
 * [Cloud Volumes ONTAP High Availability](./cvoha.md)
-* [Aggregate](./aggregagte.md)
+* [Aggregate](./aggregate.md)
 * [Volume](./volume.md)
 
