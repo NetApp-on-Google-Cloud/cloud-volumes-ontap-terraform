@@ -13,11 +13,11 @@ A refresh token is needed to obtain an access tokens for users. Log in with your
 
 1. Click on the generate refresh token button.
 
-![token-generator1](./../pics/cloudmanager_token_generator01.jpg)
+![token-generator1](./pics/cloudmanager_token_generator01.jpg)
 
 2. Copy it to the clipboard.
 
-![token-generator2](./../pics/cloudmanager_token_generator02.jpg)
+![token-generator2](./pics/cloudmanager_token_generator02.jpg)
 
 ### Service account for the Cloud Volumes ONTAP
 
@@ -27,14 +27,14 @@ Create a service account for the CVO instance to be able to tier to GCS and/or b
 
 1. Go to [Cloud Manager SaaS](https://cloudmanager.netapp.com/support-dashboard/connector), and click on the question mark icon on the top right and click on 'Support'. Click on the 'Connector' section. Copy the Client id.
 
-![account-id1](./../pics/cloudmanager_client_id01.jpg)
+![account-id1](./pics/cloudmanager_client_id01.jpg)
 
 
 ### Cloud Manager Workspace id
 
 1. Go to [Cloud Manager SaaS](https://cloudmanager.netapp.com/), and click on the workspace section on the top right and click on the three dots. Copy the workspace id.
 
-![account-id1](./../pics/cloudmanager_workspace_id01.jpg)
+![account-id1](./pics/cloudmanager_workspace_id01.jpg)
 
 ## Deployment
 
