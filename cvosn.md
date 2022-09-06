@@ -38,7 +38,7 @@ Create a service account for the CVO instance to be able to tier to GCS and/or b
 
 ## Deployment
 
-Check the last Terraform module version and modify the inputs according with your project.
+Check the last Terraform module version and modify the inputs according to your project.
 
 provider.tf
 ```yaml
