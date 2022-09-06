@@ -41,7 +41,7 @@ A refresh token is needed to obtain an access tokens for users. Log in with your
 
 ## Deployment
 
-Check the last Terraform module version and modify the inputs according with your project.
+Check the last Terraform module version and modify the inputs according to your project.
 
 provider.tf
 ```yaml
