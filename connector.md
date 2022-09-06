@@ -14,11 +14,11 @@ A refresh token is needed to obtain an access tokens for users. Log in with your
 
 1. Click on the generate refresh token button.
 
-![token-generator1](./../pics/cloudmanager_token_generator01.jpg)
+![token-generator1](./pics/cloudmanager_token_generator01.jpg)
 
 2. Copy it to the clipboard.
 
-![token-generator2](./../pics/cloudmanager_token_generator02.jpg)
+![token-generator2](./pics/cloudmanager_token_generator02.jpg)
 
 ### Service account for the Cloud Manager Connector
 
@@ -43,11 +43,11 @@ Once you have created the service account, [create a key](https://cloud.google.c
 
 1. Go to [Cloud Manager SaaS](https://cloudmanager.netapp.com/), and click on the Account menu on the top right. Click on the 'Manage Account' section.
 
-![account-id1](./../pics/cloudmanager_account_id01.jpg)
+![account-id1](./pics/cloudmanager_account_id01.jpg)
 
 2. Copy the Account ID which is shown.
 
-![account-id2](./../pics/cloudmanager_account_id02.jpg)
+![account-id2](./pics/cloudmanager_account_id02.jpg)
 
 ## Deployment
 
