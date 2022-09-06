@@ -1,6 +1,6 @@
 # Cloud Volumes ONTAP on Google Cloud using Terraform
 
-Guides to show the procedure and examples to deploy Cloud Volumes ONTAP on Google Cloud using Ansible.
+Guides to show the procedure and examples to deploy Cloud Volumes ONTAP on Google Cloud using Terraform.
 
 * [Cloud Manager Connector](./connector.md)
 * [Cloud Volumes ONTAP Single Node](./cvosn.md)
