@@ -2,9 +2,7 @@
 
 Guides to show the procedure and examples to deploy Cloud Volumes ONTAP on Google Cloud using Terraform.
 
-* [Cloud Manager Connector](./connector.md)
-* [Cloud Volumes ONTAP Single Node](./cvosn.md)
-* [Cloud Volumes ONTAP High Availability](./cvoha.md)
-* [Aggregate](./aggregate.md)
-* [Volume](./volume.md)
-
+* [Cloud Volumes ONTAP Single Zone using Standalone VPC](./CVOSN-standaloneVPC.md)
+* [Cloud Volumes ONTAP Single Zone using Shared VPC](./CVOSN-sharedVPC.md)
+* [Cloud Volumes ONTAP Multi Zone using Standalone VPC](./CVOHA-standaloneVPC.md)
+* [Cloud Volumes ONTAP Multi Zone using Shared VPC](./CVOHA-sharedVPC.md)
