@@ -16,7 +16,7 @@ terraform {
   required_providers {
     netapp-cloudmanager = {
       source = "NetApp/netapp-cloudmanager"
-      version = "22.12.0"
+      version = "23.1.1"
     }
   }
 }
@@ -29,7 +29,6 @@ resource "netapp-cloudmanager_cvo_gcp" "cvo-gcp" {
   name = "my-cvo"
   project_id = "my-project"
   is_ha = true
-  zone = "us-east4-b"
   node1_zone = "us-east4-a"
   node2_zone = "us-east4-b"
   mediator_zone = "us-east4-c"
